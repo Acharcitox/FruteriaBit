@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FruteriaBit</string>
+    <string name="add_fruta">Agregar una fruta</string>
+    <string name="nombre_fruta">Ingrese una fruta</string>
+    <string name="guardar">Guardar</string>
+    <string name="no_guardado">No se guardó</string>
+</resources>
